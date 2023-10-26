@@ -1,0 +1,18 @@
+body{
+    margin: 2px;
+    padding: 0;
+}
+.div1{
+    width: 218px;
+    height: 218px;
+    background-color: #FE0303;
+    float: left;
+}
+
+
+.div2{
+    width: 218px;
+    height: 218px;
+    background-color: blue;
+    float: right;
+}
